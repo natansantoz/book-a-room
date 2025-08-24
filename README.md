@@ -50,12 +50,12 @@ Sistema de gerenciamento de salas de reunião desenvolvido para uma das atividad
 
 1. **Clone o repositório:**
    ```sh
-   git clone https://github.com/natansantoz/BookARoom.git
+   git clone https://github.com/natansantoz/book-a-room.git
    ```
 
 2. **Navegue até o diretório do projeto:**
    ```sh
-   cd BookARoom/src/
+   cd book-a-room/src/
    ```
 
 3. **Compile o projeto utilizando Maven:**
