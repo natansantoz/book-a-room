@@ -6,7 +6,7 @@
 <a href=""><img alt="Sistema" src="https://img.shields.io/badge/Sistema-Reserva%20de%20Salas-green.svg" height="20"/></a>
 </p>
 
-Projeto desenvolvido para uma das atividades avaliativas da disciplina Análise e Projeto de Sistemas, com foco na aplicação de princípios GRASP. O objetivo foi criar um sistema extensível, de fácil manutenção e com responsabilidades bem definidas.
+Sistema de gerenciamento de salas de reunião desenvolvido para uma das atividades avaliativas da disciplina Análise e Projeto de Sistemas, com foco na aplicação de princípios GRASP. O objetivo foi criar um sistema extensível, de fácil manutenção e com responsabilidades bem definidas.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#table-of-contents)
 
