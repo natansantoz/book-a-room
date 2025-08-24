@@ -6,12 +6,17 @@
 <a href=""><img alt="Sistema" src="https://img.shields.io/badge/Sistema-Reserva%20de%20Salas-green.svg" height="20"/></a>
 </p>
 
-Implementação de um **sistema de reserva de salas de reunião** para a atividade avaliativa Projeto com Responsabilidades: BookARoom - Sistema de Reserva de Salas de Reunião da disciplina Análise e Projeto de Sistemas.
+Projeto desenvolvido para uma das atividades avaliativas da disciplina Análise e Projeto de Sistemas, com foco na aplicação de princípios GRASP. O objetivo foi criar um sistema extensível, de fácil manutenção e com responsabilidades bem definidas.
 
-### Funcionalidades Principais
-- **Reserva de Salas**: Sistema de agendamento de salas de reunião
-- **Controle de Equipamentos**: Alocação e gerenciamento de equipamentos
-- **Relatórios**: Geração de relatórios de uso das salas
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#table-of-contents)
+
+### **Funcionalidades**
+- **Gerenciamento de Salas de Reunião**
+    - Cadastro, edição, listagem e exclusão de salas.
+- **Reserva de Salas**
+    - Criação, atualização e cancelamento de reservas.
+- **Alocação e Gerenciamento de Equipamentos**
+    - Controle dos equipamentos disponíveis e vinculados às salas.
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#table-of-contents)
